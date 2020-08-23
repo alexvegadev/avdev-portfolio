@@ -3,9 +3,6 @@
 <p align="center">
   Maded with Vue <b>2</b>.
 </p>
-<p align="center">
-<b>400+</b> material UI elements, <b>600+</b> material icons, <b>74</b>
-</p>
 # Quick start
 
 ``` 
