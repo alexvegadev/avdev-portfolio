@@ -25,8 +25,8 @@ npm run build --report / yarn build --report
 
 **Bootstrap 4(MDBoostrap)**
 
-**Vue 2 **
+**Vue 2**
 
 # Technologys:
 
-** JavaScript, CSS3, Html5, SASS, Vue, Heroku(for deployment).**
+**JavaScript, CSS3, Html5, SASS, Vue, Heroku(for deployment).**
